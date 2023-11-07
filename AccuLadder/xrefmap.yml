@@ -919,6 +919,21 @@ references:
   commentId: Overload:Accuraty.Libraries.AccuLadder.Accu.Web.GetWidthFromImageFile
   fullName: Accuraty.Libraries.AccuLadder.Accu.Web.GetWidthFromImageFile
   nameWithType: Accu.Web.GetWidthFromImageFile
+- uid: Accuraty.Libraries.AccuLadder.Accu.Web.ToSlug(System.String)
+  name: ToSlug(string)
+  href: api/Accuraty.Libraries.AccuLadder.Accu.Web.html#Accuraty_Libraries_AccuLadder_Accu_Web_ToSlug_System_String_
+  commentId: M:Accuraty.Libraries.AccuLadder.Accu.Web.ToSlug(System.String)
+  name.vb: ToSlug(String)
+  fullName: Accuraty.Libraries.AccuLadder.Accu.Web.ToSlug(string)
+  fullName.vb: Accuraty.Libraries.AccuLadder.Accu.Web.ToSlug(String)
+  nameWithType: Accu.Web.ToSlug(string)
+  nameWithType.vb: Accu.Web.ToSlug(String)
+- uid: Accuraty.Libraries.AccuLadder.Accu.Web.ToSlug*
+  name: ToSlug
+  href: api/Accuraty.Libraries.AccuLadder.Accu.Web.html#Accuraty_Libraries_AccuLadder_Accu_Web_ToSlug_
+  commentId: Overload:Accuraty.Libraries.AccuLadder.Accu.Web.ToSlug
+  fullName: Accuraty.Libraries.AccuLadder.Accu.Web.ToSlug
+  nameWithType: Accu.Web.ToSlug
 - uid: Accuraty.Libraries.AccuLadder.AccuKit
   name: AccuKit
   href: api/Accuraty.Libraries.AccuLadder.AccuKit.html
