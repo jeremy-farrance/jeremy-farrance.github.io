@@ -170,10 +170,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/logo.svg",
+      "source_relative_path": "images/accu-logo.svg",
       "output": {
         "resource": {
-          "relative_path": "images/logo.svg"
+          "relative_path": "images/accu-logo.svg"
         }
       },
       "version": ""
